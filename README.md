@@ -11,8 +11,10 @@
 
 
 
-- ## HR-DataLab Healthcare Main
-   
+- ## Team: HR-DataLab Healthcare Main
+   - Chanel Generaal:
+     - Notulen van besprekingen
+     - updates via posts
 
 
 <br><br><br><br>
@@ -20,10 +22,11 @@
 
 
 
-- ## HR-DataLab Healthcare Interne projecten
-   - Roadmap inzicht over alle interne projecten
-   - interne processen vastleggen via word documents zoals "in dienst nemen" 
-   - interne projecten (roadmap overzicht van project zelf)   
+- ## Team: HR-DataLab Healthcare Interne projecten
+  - Chanel Generaal:
+     - Roadmap inzicht over alle interne projecten
+     - interne processen vastleggen via word documents zoals "in dienst nemen" 
+     - interne projecten (roadmap overzicht van project zelf)   
     
 
    <br><br><br><br>
@@ -33,9 +36,11 @@
 
 
 
-- ## HR-DataLab Healthcare Externe projecten 
-   - Roadmap inzicht over alle externe projecten
-   - 
+- ## Team: HR-DataLab Healthcare Externe projecten 
+   - Chanel Generaal:
+     - Roadmap inzicht over alle externe projecten
+     - externe processen vastleggen via word documents zoals "wat waar te vinden is"
+     - externe projecten 
        
 
 <br><br><br><br>
