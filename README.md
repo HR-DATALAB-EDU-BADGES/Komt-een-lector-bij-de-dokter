@@ -36,8 +36,6 @@
 - ## Teams Main kanaal Externe projecten (elk kanaal hier onder bevat een Roadmap en Project app)
   - Sub kanaal generaal (inzicht alle externe projecten en over wie waar hoort, welke positie + bemachtiging)
 
-<br><br>
-
       - Sub kanaal Perined generaal (informatie en Roadmap overzicht over alle Perined projecten)
          - Sub kanaal1 Perined (project en roadmap overzicht van project zelf)
          - Sub kanaal2 Perined (project en roadmap overzicht van project zelf)
