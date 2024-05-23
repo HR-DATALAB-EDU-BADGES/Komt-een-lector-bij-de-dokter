@@ -11,8 +11,8 @@
 
 
 
-- ## Teams Main kanaal Generaal
-   - Roadmap met inzicht op alle projecten
+- ## HR-DataLab Healthcare Main
+   
 
 
 <br><br><br><br>
@@ -20,11 +20,11 @@
 
 
 
-- ## Teams Main kanaal Interne projecten
-   - Sub kanaal generaal (Roadmap inzicht over interne projecten)
+- ## HR-DataLab Healthcare Interne projecten
+   - Roadmap inzicht over alle interne projecten
    - interne processen vastleggen via word documents zoals "in dienst nemen" 
-     - intern project1 (roadmap overzicht van project zelf)   
-     - intern project2 (roadmap overzicht van project zelf)   
+   - interne projecten (roadmap overzicht van project zelf)   
+    
 
    <br><br><br><br>
 
@@ -33,16 +33,9 @@
 
 
 
-- ## Teams Main kanaal Externe projecten (elk kanaal hier onder bevat een Roadmap en Project app)
-  - Sub kanaal generaal (inzicht alle externe projecten en over wie waar hoort, welke positie + bemachtiging)
-
-      - Sub kanaal Perined generaal (informatie en Roadmap overzicht over alle Perined projecten)
-         - Sub kanaal1 Perined (project en roadmap overzicht van project zelf)
-         - Sub kanaal2 Perined (project en roadmap overzicht van project zelf)
-
-      - Sub kanaal Co-lead generaal (informatie en Roadmap overzicht over alle Co-lead projecten)
-        - Sub kanaal1 Co-lead (project en roadmap overzicht van project zelf)
-        - Sub kanaal2 Co-lead (project en roadmap overzicht van project zelf)
-
+- ## HR-DataLab Healthcare Externe projecten 
+   - Roadmap inzicht over alle externe projecten
+   - 
+       
 
 <br><br><br><br>
