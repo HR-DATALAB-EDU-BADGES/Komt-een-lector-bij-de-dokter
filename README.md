@@ -40,8 +40,6 @@
          - Sub kanaal1 Perined (project en roadmap overzicht van project zelf)
          - Sub kanaal2 Perined (project en roadmap overzicht van project zelf)
 
-<br><br>
-
       - Sub kanaal Co-lead generaal (informatie en Roadmap overzicht over alle Co-lead projecten)
         - Sub kanaal1 Co-lead (project en roadmap overzicht van project zelf)
         - Sub kanaal2 Co-lead (project en roadmap overzicht van project zelf)
