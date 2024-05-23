@@ -2,7 +2,7 @@
 
 <br><br>
 
-### hier wordt beschreven hoe Teams kanalen Praktisch worden gebruikt voor lectoren die komen werken bij ons in het DataLab.
+### hier wordt beschreven hoe Teams en Chanels Praktisch worden gebruikt voor lectoren die komen werken bij ons in het DataLab.
 
 <br><br><br><br>
 
@@ -44,3 +44,33 @@
        
 
 <br><br><br><br>
+
+
+## belangrijke context:
+
+### Keuzes:
+
+<br><br>
+
+1: We maken drie Teams aan omdat je geen subChanels kan maken voor Chanels.
+
+2: We zetten alle interne projecten samen in een Chanel,
+omdat Roadmap anders niet alle interne projecten weergeven.
+
+het zelfde van 2 geld voor externe projecten.
+
+<br><br><br><br>
+
+### Mogelijkheden:
+
+<br><br>
+
+1: Het is nu zo gezet dat er per Team maar een Chanel is, 
+naast de interne/externe projecten die allemaal samen moeten in een Chanel is er veel mogelijkheid om de content van elke team over Chanels te verspreiden.
+
+2: Er is nog een mogelijkheid dat Roadmaps als bestand gedownload kunnen worden dit is Rob aan het onderzoeken.
+
+<br><br><br><br>
+
+
+
