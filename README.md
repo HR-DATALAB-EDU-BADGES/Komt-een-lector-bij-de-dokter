@@ -2,7 +2,7 @@
 
 <br><br>
 
-### hier wordt beschreven hoe Teams en Chanels Praktisch worden gebruikt voor lectoren die komen werken bij ons in het DataLab.
+### Hier wordt beschreven hoe Teams en Chanels Praktisch worden gebruikt voor lectoren die komen werken bij ons in het DataLab.
 
 <br><br><br><br>
 
