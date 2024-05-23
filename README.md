@@ -21,7 +21,7 @@
 
 
 - ## Teams Main kanaal Interne projecten
-   - Sub kanaal generaal generaal (Roadmap inzicht over interne projecten)
+   - Sub kanaal generaal (Roadmap inzicht over interne projecten)
    - interne processen vastleggen via word documents zoals "in dienst nemen" 
      - intern project1 (roadmap overzicht van project zelf)   
      - intern project2 (roadmap overzicht van project zelf)   
