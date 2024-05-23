@@ -23,6 +23,9 @@
 - ## Teams Main kanaal Interne projecten
    - Sub kanaal generaal (Roadmap inzicht over interne projecten)
    - interne processen vastleggen via word documents zoals "in dienst nemen" 
+
+<br><br>
+
      - intern project1 (roadmap overzicht van project zelf)   
      - intern project2 (roadmap overzicht van project zelf)   
 
@@ -36,9 +39,13 @@
 - ## Teams Main kanaal Externe projecten (elk kanaal hier onder bevat een Roadmap en Project app)
   - Sub kanaal generaal (inzicht alle externe projecten en over wie waar hoort, welke positie + bemachtiging)
 
+<br><br>
+
       - Sub kanaal Perined generaal (informatie en Roadmap overzicht over alle Perined projecten)
          - Sub kanaal1 Perined (project en roadmap overzicht van project zelf)
          - Sub kanaal2 Perined (project en roadmap overzicht van project zelf)
+
+<br><br>
 
       - Sub kanaal Co-lead generaal (informatie en Roadmap overzicht over alle Co-lead projecten)
         - Sub kanaal1 Co-lead (project en roadmap overzicht van project zelf)
