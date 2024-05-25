@@ -49,7 +49,7 @@
 <br><br><br><br>
 
 
-<img width="600" height="400" src="images/teams-en-chanels.png" alt="image">
+<img width="800" height="400" src="images/teams-en-chanels.png" alt="image">
 
 
 
