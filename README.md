@@ -49,9 +49,11 @@
 <br><br><br><br>
 
 
+<img width="600" height="400" src="images/teams-en-chanels.png" alt="image">
 
 
 
+<br><br>
 
 ## belangrijke context:
 
